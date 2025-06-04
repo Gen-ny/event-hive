@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
+# Ignore Lock Files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
